@@ -1,6 +1,6 @@
 # Parul University Course Organizer Web App
 
-![Parul University Logo]([https://your-logo-url.com/path/to/logo.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3th2tePm_a676OFigupMV6P9s1BjB2lxFLw&s)) <!-- Replace with your logo image URL -->
+![Parul University Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3th2tePm_a676OFigupMV6P9s1BjB2lxFLw&s) <!-- Replace with your logo image URL -->
 
 ## Summary
 In today’s fast-paced academic environment, students often struggle to keep track of their courses, assignments, and essential resources across multiple subjects. The lack of a centralized system can lead to confusion, missed deadlines, and difficulty in accessing important materials. 
@@ -37,10 +37,10 @@ The **Parul University Course Organizer Web App** addresses these challenges by 
   - Secure user login and registration to protect personal academic data.
 
 ## Presentation
-![Presentation Image](https://your-presentation-url.com/path/to/presentation.jpg) <!-- Replace with your presentation image URL -->
+![Presentation Image](https://i.postimg.cc/GtbcLSXx/Screenshot-2024-10-19-155500.png) <!-- Replace with your presentation image URL -->
 
 ## Screenshot
-![Web App Screenshot](https://your-screenshot-url.com/path/to/screenshot.jpg) <!-- Replace with your web app screenshot URL -->
+![Web App Screenshot](https://i.postimg.cc/3JTdbt71/Screenshot-2024-10-19-160810.png) <!-- Replace with your web app screenshot URL -->
 
 ## Technologies Used
 - **Frontend**: 
@@ -56,4 +56,3 @@ The **Parul University Course Organizer Web App** addresses these challenges by 
 1. **Clone this repository** or download the ZIP file:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-
