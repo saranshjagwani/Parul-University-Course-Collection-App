@@ -1,6 +1,6 @@
 # Parul University Course Organizer Web App
 
-![Parul University Logo](https://your-logo-url.com/path/to/logo.jpg) <!-- Replace with your logo image URL -->
+![Parul University Logo]([https://your-logo-url.com/path/to/logo.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3th2tePm_a676OFigupMV6P9s1BjB2lxFLw&s)) <!-- Replace with your logo image URL -->
 
 ## Summary
 In today’s fast-paced academic environment, students often struggle to keep track of their courses, assignments, and essential resources across multiple subjects. The lack of a centralized system can lead to confusion, missed deadlines, and difficulty in accessing important materials. 
